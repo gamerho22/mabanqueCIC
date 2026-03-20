@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/cic_app.html" }
+    { "source": "/", "destination": "/cic_login.html" }
   ]
 }
